@@ -1,5 +1,6 @@
-# BIOL508V
+# BIOL 508V
 Scientific Computing for Biologists
 
-* First Item
-* Second Item
+* Overview
+* Slides
+* Files
